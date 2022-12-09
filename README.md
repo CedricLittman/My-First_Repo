@@ -1,2 +1,2 @@
 # My-First_Repo
-Ny First System
+My First System
